@@ -1,0 +1,1 @@
+The Chat Application project is designed to create a real-time messaging platform that allows users to communicate seamlessly. The application aims to provide a user-friendly interface, reliable performance, and secure communication. This project involves the development of both the frontend and backend, ensuring a full-stack solution for instant messaging.
